@@ -2,7 +2,7 @@
 
 ## Overview
 
-TOPA (Trajectory Optimization for Positioning with obstacle Awareness) is a comprehensive framework for optimizing UAV (Unmanned Aerial Vehicle) positioning in wireless communication networks while considering physical obstacles. The project combines network simulation using ns-3 with mathematical optimization techniques to find optimal UAV positions that maximize coverage while maintaining line-of-sight (LoS) conditions.
+TOPA (Traffic- and Obstacle-aware UAV Positioning Algorithm) is a comprehensive framework for optimizing UAV (Unmanned Aerial Vehicle) positioning in wireless communication networks while considering a physical obstacle. The project combines network simulation using ns-3 with mathematical optimization techniques to find optimal UAV positions that maximize coverage while maintaining line-of-sight (LoS) conditions.
 
 ## Table of Contents
 
